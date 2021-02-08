@@ -240,7 +240,7 @@
     <dnsserver>8.8.4.4</dnsserver>
     <sudo_allow_wheel>1</sudo_allow_wheel>
     <serialspeed>115200</serialspeed>
-    <primaryconsole>video</primaryconsole>
+    <primaryconsole>serial</primaryconsole>
     <ssh>
       <enabled>enabled</enabled>
       <passwordauth>1</passwordauth>
